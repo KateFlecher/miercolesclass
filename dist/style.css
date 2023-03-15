@@ -22,5 +22,10 @@ li{
 img{ 
   width:260px;
   border-radius:20px;
+}
 
+h1{ 
+  text-align: center;
+  font-size: 14px;
+  color:white;
 }
